@@ -129,7 +129,7 @@ nav #joinus {
 /* Banner and CTA section */
 
 #sign-up-section {
-  background-image: url('../images/banner-landingpage.jpg');
+  background-image: url('banner-landingpage.jpg');
   background-size: cover;
   background-position: bottom;
   background-repeat: no-repeat;
